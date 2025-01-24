@@ -1,0 +1,32 @@
+{
+  "name" : "Odlator",
+  "version" : "0.5.1",
+  "description" : "OpenDocument Generator plugin for Oracle APEX.",
+  "keywords" : ["Document","Generator", "ODT", "Oracle apex plugin"],
+  "homepage" : "https://github.com/hachemizakaria/odlator",
+  "bugs" : {
+    "url" : "https://github.com/hachemizakaria/odlator/issues"
+  },
+  "license" : "MIT",
+  "commercial" : "No",
+  "author" : {
+    "name" : "hachemi zakaria"
+  
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/hachemizakaria/odlator.git"
+  },
+  "oracle" : {
+    "versions" : ["19.0", "23.0"],
+    "apex" : {
+      "versions" : ["24.1"],
+      "plugin" : {
+        "internalName" : "COM.ZAKPEX.APEX.ODLATOR.DA",
+        "type" : "dynamic action",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=57743:1",
+        "previewImage" : "https://raw.githubusercontent.com/hachemizakaria/odlator/refs/heads/main/preview.png"
+      }
+    }
+  }
+}

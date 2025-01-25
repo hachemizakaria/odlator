@@ -5,7 +5,8 @@
   "keywords" : ["Document","Generator", "ODT", "Oracle apex plugin"],
   "homepage" : "https://github.com/hachemizakaria/odlator",
   "bugs" : {
-    "url" : "https://github.com/hachemizakaria/odlator/issues"
+    "url" : "https://github.com/hachemizakaria/odlator/issues",
+    "email" : "hachemi.zakaria@gmail.com"
   },
   "license" : "MIT",
   "commercial" : "No",

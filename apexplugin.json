@@ -1,6 +1,6 @@
 {
   "name" : "Odlator",
-  "version" : "0.5.1",
+  "version" : "0.5.2",
   "description" : "OpenDocument Generator plugin for Oracle APEX.",
   "keywords" : ["Document","Generator", "ODT", "Oracle apex plugin"],
   "homepage" : "https://github.com/hachemizakaria/odlator",

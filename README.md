@@ -27,7 +27,9 @@ This [Oracle APEX](apex.oracle.com) plugin enables dynamic generation of OpenDoc
 ## Demo Application 
 
 - The Demo Application is at (https://apex.oracle.com/pls/apex/r/hachemi/odlator)
-- Credentials: demo/password123
+- Credentials: 
+  - username demo
+  - password password123
 
 
 ---

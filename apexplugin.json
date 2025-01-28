@@ -27,7 +27,7 @@
         "internalName" : "COM.ZAKPEX.APEX.ODLATOR.DA",
         "type" : "dynamic action",
         "demo" : "https://apex.oracle.com/pls/apex/r/hachemi/odlator/",
-        "previewImage" : "https://github.com/hachemizakaria/odlator/blob/de365aa4721b72fe1e77741a88a7bbbfc690d9d2/preview.png"
+        "previewImage" : "https://raw.githubusercontent.com/hachemizakaria/odlator/de365aa4721b72fe1e77741a88a7bbbfc690d9d2/preview.png"
       }
     }
   }
